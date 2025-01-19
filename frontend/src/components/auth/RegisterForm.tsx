@@ -93,7 +93,7 @@ const RegisterForm = () => {
         required
       >
         <option value="user">User</option>
-        <option value="pet_sitter">Pet Sitter</option>
+      
       </select>
       {error && <p className="text-red-500 text-sm">{error}</p>}
       <button
