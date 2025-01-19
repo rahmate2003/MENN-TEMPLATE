@@ -1,4 +1,3 @@
-# MERN-TEMPLATE
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) <!-- Replace with your project's license -->
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) <!-- Replace with your project's version -->
