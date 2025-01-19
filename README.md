@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # MERN-TEMPLATE
+
 =======
->>>>>>> 4e8dbfea320bd4a8c99bd4f7a86e04a9e016d0d4
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) <!-- Replace with your project's license -->
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) <!-- Replace with your project's version -->
@@ -11,7 +10,7 @@
 ## Features
 
 - **Next.js**:
-- **Passport.js Authentication**: 
+- **Passport.js Authentication**:
 - **Google OAuth**:
 
 ---
@@ -32,11 +31,13 @@
 Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/rahmate2003/MENN-TEMPLATE.git
    ```
 
 2. **Install**:
+
    ```bash
    cd MENN-TEMPLATE
    cd backend
@@ -53,15 +54,15 @@ Follow these steps to set up the project locally:
    npm run dev
    ```
 
-<<<<<<< HEAD
-4. Access the app in your browser at [http://localhost:3000](http://localhost:3000).
-=======
-4. Access the app in your browser at backend: [http://localhost:5000](http://localhost:5000). frontend: [http://localhost:3000](http://localhost:3000).
->>>>>>> 4e8dbfea320bd4a8c99bd4f7a86e04a9e016d0d4
+<<<<<<< HEAD 4. Access the app in your browser at [http://localhost:3000](http://localhost:3000).
+======= 4. Access the app in your browser at backend: [http://localhost:5000](http://localhost:5000). frontend: [http://localhost:3000](http://localhost:3000).
+
+> > > > > > > 4e8dbfea320bd4a8c99bd4f7a86e04a9e016d0d4
 
 ---
 
 ## Technologies Used:
+
 - **MongoDB**: NoSQL database for data storage.
 - **Express.js**: Node.js framework to build the server API.
 - **React**: Library for building the user interface.
@@ -72,6 +73,7 @@ Follow these steps to set up the project locally:
 ---
 
 ## Contributing
+
 If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request with your changes.
 
 ---
