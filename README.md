@@ -50,7 +50,7 @@ Follow these steps to set up the project locally:
    npm run dev
    ```
 
-4. Access the app in your browser at [http://localhost:3000](http://localhost:3000).
+4. Access the app in your browser at backend: [http://localhost:5000](http://localhost:5000). frontend: [http://localhost:3000](http://localhost:3000).
 
 ---
 
