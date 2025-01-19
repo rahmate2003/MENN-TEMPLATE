@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # MERN-TEMPLATE
+=======
+>>>>>>> 4e8dbfea320bd4a8c99bd4f7a86e04a9e016d0d4
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) <!-- Replace with your project's license -->
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) <!-- Replace with your project's version -->
@@ -50,7 +53,11 @@ Follow these steps to set up the project locally:
    npm run dev
    ```
 
+<<<<<<< HEAD
 4. Access the app in your browser at [http://localhost:3000](http://localhost:3000).
+=======
+4. Access the app in your browser at backend: [http://localhost:5000](http://localhost:5000). frontend: [http://localhost:3000](http://localhost:3000).
+>>>>>>> 4e8dbfea320bd4a8c99bd4f7a86e04a9e016d0d4
 
 ---
 
